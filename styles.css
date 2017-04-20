@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+  background-color: #030133;
+}
+
+#top_bar {
+  background-image: url(top_bar_bg.png);
+  color: white;
+  height: 40px;
+}
+
+#top_inner {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#top_bar ul {
+  float: right;
+  margin-top: 8px;
+}
+
+#top_bar li {
+  float: left;
+  margin-right: 20px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#quote_bar_inner {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#quote_bar {
+  height: 130px;
+  background-color: #006599;
+  color: #FFFFFF;
+}
+
+#quote_bar h3 {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  width: 670px;
+  line-height: 145%;
+  padding-top: 20px;
+}
+
+#main_bar {
+  height: 350px;
+  background-color: #FFFFFF;
+}
+
+#bio {
+  width: 400px;
+  color: #030133;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 145%;
+  margin-left: 300px;
+}
+
+#bio h1 {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 0px 5px 0px;
+}
+
+#bio h2 {
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#bio p {
+  font-size: 14px;
+}
+#main_bar_inner {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+#sidebar {
+  float: right;
+  background-image: url(sidebar_bg.png);
+  width: 250px;
+  height: 195px;
+  border: 5px solid #006599;
+  margin-top: 25px;
+}
+
+#sidebar p {
+  padding: 15px;
+  padding-top: 35px;
+  color: #FFFFFF;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 145%;
+}
+
+#bio-pic {
+  position: absolute;
+  top: 0px;
+  left: -25px;
+  color: white;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+hr {
+  height: 3px;
+  color: #030133;
+  background-color: #030133;
+}
+
+#bottom_inner {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFFFFF;
+}
+
+.col {
+  float: left;
+  margin-top: 45px;
+}
+
+#first {
+  margin-left: 300px;
+  margin-right: 40px;
+}
+
+#bottom_bar {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+#bottom_bar h3 {
+  text-transform: uppercase;
+  border-bottom: 1px solid #FFFFFF;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+#bottom_bar li {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
