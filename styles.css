@@ -7,7 +7,7 @@ body {
 
 #top_bar {
   background-image: url(top_bar_bg.png);
-  color: white;
+  color: salmon;
   height: 40px;
 }
 
@@ -99,7 +99,7 @@ body {
 #sidebar p {
   padding: 15px;
   padding-top: 35px;
-  color: #FFFFFF;
+  color: thistle;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-style: italic;
   font-size: 16px;
