@@ -1,1 +1,5 @@
 ---
+steps:
+  - name: Create symlink
+    plugin: Shell
+    command: 'ln -s /src /var/www/html'
