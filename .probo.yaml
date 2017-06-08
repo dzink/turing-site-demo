@@ -1,4 +1,8 @@
 ---
+
+basicAuth:
+  username: foo
+  password: bar
 steps:
   - name: Create symlink
     plugin: Shell
