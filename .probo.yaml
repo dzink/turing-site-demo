@@ -2,7 +2,7 @@
 
 basicAuth:
   username: foo
-  password: bar
+  password: bar123
 steps:
   - name: Create symlink
     plugin: Shell
