@@ -6,4 +6,4 @@ steps:
   
   - name: print stuff
     plugin: Shell
-    command: echo "BRANCH NAME $BRANCH_NAME ... BRANCH LINK $BRANCH_LINK ... BUILD_ID $BUILD_ID ... COMMIT_REF $COMMIT_REF ... COMMIT_LINK $COMMIT_LINK ... PWD $PWD ... PROBO_ENVIRONMENT $PROBO_ENVIRONMENT ... SRC_DIR $SRC_DIR"
+    command: echo "it worked"
